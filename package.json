@@ -1,0 +1,22 @@
+{
+  "name": "automation-testing",
+  "version": "1.0.0",
+  "description": "Automation Testing Mini Project (Course work)",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanhkoi/automation-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanhkoi/automation-testing/issues"
+  },
+  "homepage": "https://github.com/tanhkoi/automation-testing#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^24.3.0"
+  }
+}
